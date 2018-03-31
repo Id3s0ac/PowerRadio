@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'Power ON') {
-    	message.reply('I'm not ready yet!');
+    if (message.content === 'ping') {
+    	message.reply('pong');
   	}
 });
 
