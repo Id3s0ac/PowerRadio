@@ -1,0 +1,13 @@
+{
+  "name": "PowerRadio",
+  "description": "Radio bot for PowerStrangers",
+  "version": "0.0.0",
+  "main": "Power.js",
+  "scripts": {
+    "start": "node Power.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
