@@ -1,1 +1,1 @@
-worker node Radio.js
+worker node Power.js
